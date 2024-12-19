@@ -1,5 +1,5 @@
-# Verdandi
-**Verdandi** is a software implementation of the LSTM-based architecture for forecasting stock prices, on the following day, of the companies listed in the NYSE.
+## Brief intro
+It's a simple experimentation with the LSTM-based architecture for forecasting stock prices for day trading, of the companies listed in the NYSE.
 
 ## Workflow
 
